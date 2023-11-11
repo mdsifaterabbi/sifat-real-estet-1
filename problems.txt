@@ -1,0 +1,4 @@
+1) Hover on Drop down in bootstrap menu
+2) Gradient Shading in banner upper side and lower side
+3) Banner e cursor hover korle slider off hoe jay
+4) slide na hoe direct appear and disappear korte chai banner e
